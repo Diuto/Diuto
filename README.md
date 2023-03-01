@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Chidiuto Okorie
-### I'm a Data Analyst and an Electrical & Electronic Engineering Graduate (major in Telecommunications Engineering). I like to think of myself as a storyteller; an attribute that served as a hobby of mine long before I fell in love with data. Now, I use those skills from my storytelling days to make sense of data and draw interesting insights.
+I'm a Data Analyst and an Electrical & Electronic Engineering Graduate (major in Telecommunications Engineering). I like to think of myself as a storyteller; an attribute that served as a hobby of mine long before I fell in love with data. Now, I use those skills from my storytelling days to make sense of data and draw interesting insights.
 
 Am I a boring person? I'm so glad you asked!
 - I collect data, clean it, observe it carefully to understand it, and tell you what it's saying.

@@ -7,7 +7,7 @@ Am I a boring person? I'm so glad you asked!
 - I'm currently on the lookout for internships and Entry-level roles as a Data Analyst.
 - At the moment, I'm learning R so as to make it one of the tools of my shed.
 - The fence is a great place to sit, so I often play devil's advocate in conflict situations
-- You can reach me on [LinkedIn]https://www.linkedin.com/in/chidiuto-okorie-0397a3163/
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/chidiuto-okorie-0397a3163/)
 
 So, yeah... probably boring.
 
@@ -24,7 +24,7 @@ The tools of my trade include;
 - Machine Learning
 
 ### Blogs 📫
-- [Video Game Sales Analysis]https://medium.com/@giovanniberchmans29/video-game-sales-analysis-entrylevel-capstone-project-327ebc22ff3?source=user_profile---------0----------------------------
+- [Video Game Sales Analysis](https://medium.com/@giovanniberchmans29/video-game-sales-analysis-entrylevel-capstone-project-327ebc22ff3?source=user_profile---------0----------------------------)
 <!--
 **Diuto/Diuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
